@@ -3,7 +3,7 @@
 
 
 ## Download
-Dataset available webpage will be released after we clean up the data. 
+You can submit official request access to the dataset via xiaoli1996@whu.edu.cn.
 
 
 
