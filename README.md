@@ -1,14 +1,12 @@
 # SSBPR-Snore-based Sleep Body Position Recognition
 
+This repository contains the Snore-based Sleep Body Position Recognition dataset  (SSBPR) proposed in the INTERSPEECH 2023 paper [A Snoring Sound Dataset for Body Position Recognition: Collection, Annotation, and Analysis](https://arxiv.org/abs/2307.13346).
+
 
 
 ## Download
-You can submit official request access to the dataset via xiaoli1996@whu.edu.cn.
+You can submit an official request for access to the dataset via xiaoli1996@whu.edu.cn.
 
-
-
-## License
-The SSBPR corpus is being made freely available for download under a Creative Commons Attribution 4.0 International license.
 
 
 ## Citation
